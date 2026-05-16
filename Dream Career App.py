@@ -1,0 +1,7 @@
+name=input("enter your name:")
+dream=input("enter your dream:")
+salary=input("enter your dream salary:")
+print("-------Dream Career App-------")
+print("Name:",name)
+print("Dream:",dream)
+print("Dream salary:",salary)
